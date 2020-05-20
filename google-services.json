@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739183758499",
+    "firebase_url": "https://govi-mithura.firebaseio.com",
+    "project_id": "govi-mithura",
+    "storage_bucket": "govi-mithura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739183758499:android:bdc0f04bf1cbb0b62a0316",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739183758499-co9a0jnt59dnvcogr5o1as1vh9kg698o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcQn2W6IOSk5jDqHqbsEyWKwc-fiFmqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739183758499-co9a0jnt59dnvcogr5o1as1vh9kg698o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
